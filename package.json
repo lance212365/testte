@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/lance212365/testte/issues"
   },
-  "homepage": "https://github.com/lance212365/testte#readme"
+  "homepage": "https://github.com/lance212365/testte#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1"
+  }
 }
